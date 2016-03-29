@@ -1,5 +1,7 @@
 label,sublabel,description,styles,bgcolor
-燃やさないごみ,,,img/moyasanai02.svg,#733b96
-資源,,,img/shigen02.svg,#77ae1f
-燃やすごみ,,,img/moyasu02.svg,#ea3b13
-びん,,,img/bin02.svg,#2dc7aa
+燃やせるゴミ,,,img/moyasanai02.svg,#ea3b13
+金属,,,img/shigen02.svg,#685ecf
+ビン・ガラス・瀬戸物,,,img/moyasu02.svg,#13c4e1
+空き缶,,,img/bin02.svg,#ba5ed5
+ペットボトル,,,img/bin02.svg,#bbe400
+発泡スチロール,,,img/bin02.svg,#27a047
