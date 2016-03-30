@@ -1,5 +1,6 @@
 label,sublabel,description,styles,bgcolor
 燃やせるごみ,,,img/moyaseru.svg,#ea3b13
+燃やせるごみ（臨時）,,,img/moyaseru.svg,#ea3b13
 金属,,,img/metal.svg,#685ecf
 ビン・ガラス・瀬戸物,,,img/bin.svg,#13c4e1
 空き缶,,,img/can.svg,#ba5ed5
